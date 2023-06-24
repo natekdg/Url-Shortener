@@ -8,4 +8,4 @@ def shorten_url(long_url):
 
 long_url = input("Enter original URL Here: ")
 short_url = shorten_url(long_url)
-print("Shortened URL:", short_url)
+print("New URL: ", short_url)
