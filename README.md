@@ -1,2 +1,2 @@
 ## URL Shortener by Nathan
-### my first small project :)
+### my first small python creation
